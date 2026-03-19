@@ -4,6 +4,73 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Texto "
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -35,7 +102,7 @@
   "created_by": "llilasbenson",
   "title": "Memoria Abierta",
   "slug": "memoria-abierta",
-  "updated_at": "2026-03-19T21:40:26.805Z",
+  "updated_at": "2026-03-19T21:41:26.063Z",
   "updated_by": "llilasbenson",
   "autogenerate": {
     "enabled": false,
